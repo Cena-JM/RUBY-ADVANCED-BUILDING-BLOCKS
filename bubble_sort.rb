@@ -6,5 +6,4 @@ def bubble_sort(arr)
     end
     n -= 1
   end
-  print arr
 end
